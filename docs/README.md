@@ -65,7 +65,7 @@ const bar = 'bar'
 :::
 ::::
 ss
-sss
+ssss
 
 ![VuePress Logo](/hero.png)
 ![图片](./hero.png)
